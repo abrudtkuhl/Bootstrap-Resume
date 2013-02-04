@@ -1,0 +1,16 @@
+body { background-color: #444;  }
+
+/* layout */
+@media only screen and (min-width : 900px) {
+	#wrap { width: 845px; margin: 25px auto 0 auto; }
+}
+
+@media only screen and (max-width: 767px) {
+	#image-profile { display: none; }
+}
+
+@media only screen and (max-width : 566px) {
+	#wrap { margin-top: 50px; }
+}
+
+#wrap { background-color: #f1f1f1; padding: 25px 0; margin-bottom: 25px; }
