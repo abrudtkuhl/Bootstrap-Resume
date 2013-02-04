@@ -13,4 +13,20 @@ body { background-color: #444;  }
 	#wrap { margin-top: 50px; }
 }
 
-#wrap { background-color: #f1f1f1; padding: 25px 0; margin-bottom: 25px; }
+#wrap { 
+	background-color: #f1f1f1; 
+	padding: 25px 0; 
+	margin-bottom: 25px; 
+	overflow: scroll; 
+	height: 400px;
+	-webkit-border-bottom-right-radius: 10px;
+	-webkit-border-bottom-left-radius: 10px;
+	-moz-border-radius-bottomright: 10px;
+	-moz-border-radius-bottomleft: 10px;
+	border-bottom-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+}
+
+.section { min-height: 400px; }
+
+#footer { color: #ccc; text-align: center; }
