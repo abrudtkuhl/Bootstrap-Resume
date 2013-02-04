@@ -1,9 +1,9 @@
 Bootstrap-Resume
 ================
 
-A Bootstrap Resume theme built for http://YouMetAndy.com
+A Bootstrap Resume theme built for http://YouMetAndy.com utilizing Scrollspy
 
 Resources
 ================
--Twitter Bootstrap
+-Twitter Bootstrap  
 -jQuery
