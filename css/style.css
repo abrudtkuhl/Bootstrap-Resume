@@ -28,5 +28,6 @@ body { background-color: #444;  }
 }
 
 .section { min-height: 400px; }
+.section h2 { border-bottom: 1px solid #ccc; }
 
 #footer { color: #ccc; text-align: center; }
